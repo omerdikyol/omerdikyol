@@ -1,7 +1,7 @@
 <h1 align="center">Ömer Dikyol</h1>
 
 <p align="center">
-Software engineer & researcher in Istanbul.<br/>
+Software engineer & researcher in Istanbul, Turkey.<br/>
 3+ years across backend systems, applied AI and telecom.<br/>
 M.Sc. Computer Engineering at Istanbul Technical University.
 </p>
