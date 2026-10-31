@@ -5,11 +5,11 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;fill:#57606a}
 @media (prefers-color-scheme:dark){text{fill:#8b949e} .big{fill:#e6edf3} .rule{stroke:#30363d}}
 </style>
 <clipPath id="r"><rect x="20" y="14" width="840" height="12" rx="6"/></clipPath><g clip-path="url(#r)">
-<rect x="20.0" y="14" width="226.3" height="12" fill="#e5484d"/>
-<rect x="246.3" y="14" width="208.6" height="12" fill="#f76b15"/>
-<rect x="455.0" y="14" width="177.1" height="12" fill="#f5d90a"/>
-<rect x="632.1" y="14" width="109.3" height="12" fill="#30a46c"/>
-<rect x="741.3" y="14" width="64.4" height="12" fill="#3e63dd"/>
+<rect x="20.0" y="14" width="227.2" height="12" fill="#e5484d"/>
+<rect x="247.2" y="14" width="208.3" height="12" fill="#f76b15"/>
+<rect x="455.5" y="14" width="176.9" height="12" fill="#f5d90a"/>
+<rect x="632.4" y="14" width="109.1" height="12" fill="#30a46c"/>
+<rect x="741.5" y="14" width="64.3" height="12" fill="#3e63dd"/>
 <rect x="805.8" y="14" width="54.2" height="12" fill="#8e4ec6"/>
 </g>
 <circle cx="25" cy="56" r="5" fill="#e5484d"/>
