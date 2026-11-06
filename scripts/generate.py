@@ -1,4 +1,4 @@
-"""Generate assets/stats.svg, assets/languages.svg and README.md for the profile."""
+"""Generate assets/stats.svg and assets/languages.svg for the profile. README.md is edited by hand."""
 import json, os, subprocess, urllib.request
 from collections import Counter
 from datetime import date
@@ -74,30 +74,7 @@ def languages_svg(langs):
         out.append(f'<text x="{lx+16:.0f}" y="76" font-size="12">{share:.0%}</text>')
     return "\n".join(out) + "</svg>"
 
-README = """<h1 align="center">Ömer Dikyol</h1>
-
-<p align="center">
-Software engineer & researcher in Istanbul, Turkey.<br/>
-3+ years across backend systems, applied AI and telecom.<br/>
-M.Sc. Computer Engineering at Istanbul Technical University.
-</p>
-
-<p align="center"><img src="assets/stats.svg" alt="GitHub numbers"/></p>
-
-<p align="center"><img src="assets/languages.svg" alt="Languages used"/></p>
-
-<p align="center">
-<a href="https://omerdikyol.com">website</a> ·
-<a href="https://www.linkedin.com/in/omerdikyol">linkedin</a> ·
-<a href="https://x.com/omercodes">x</a> ·
-<a href="mailto:omerdikyol02@gmail.com">email</a>
-</p>
-
-<p align="center"><sub>open to work</sub></p>
-"""
-
 if __name__ == "__main__":
     stats, langs = collect()
     open("assets/stats.svg", "w").write(stats_svg(stats))
     open("assets/languages.svg", "w").write(languages_svg(langs))
-    open("README.md", "w").write(README)
