@@ -5,28 +5,28 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;fill:#57606a}
 @media (prefers-color-scheme:dark){text{fill:#8b949e} .big{fill:#e6edf3} .rule{stroke:#30363d}}
 </style>
 <clipPath id="r"><rect x="20" y="14" width="840" height="12" rx="6"/></clipPath><g clip-path="url(#r)">
-<rect x="20.0" y="14" width="225.5" height="12" fill="#e5484d"/>
-<rect x="245.5" y="14" width="207.9" height="12" fill="#f76b15"/>
-<rect x="453.4" y="14" width="173.0" height="12" fill="#f5d90a"/>
-<rect x="626.4" y="14" width="117.7" height="12" fill="#30a46c"/>
-<rect x="744.1" y="14" width="62.9" height="12" fill="#3e63dd"/>
-<rect x="807.0" y="14" width="53.0" height="12" fill="#8e4ec6"/>
+<rect x="20.0" y="14" width="217.4" height="12" fill="#e5484d"/>
+<rect x="237.4" y="14" width="199.4" height="12" fill="#f76b15"/>
+<rect x="436.9" y="14" width="166.0" height="12" fill="#f5d90a"/>
+<rect x="602.9" y="14" width="119.5" height="12" fill="#30a46c"/>
+<rect x="722.4" y="14" width="77.3" height="12" fill="#3e63dd"/>
+<rect x="799.6" y="14" width="60.4" height="12" fill="#8e4ec6"/>
 </g>
 <circle cx="25" cy="56" r="5" fill="#e5484d"/>
 <text class="big" x="36" y="60" font-size="13">Python</text>
-<text x="36" y="76" font-size="12">24%</text>
+<text x="36" y="76" font-size="12">22%</text>
 <circle cx="165" cy="56" r="5" fill="#f76b15"/>
 <text class="big" x="176" y="60" font-size="13">TypeScript</text>
-<text x="176" y="76" font-size="12">22%</text>
+<text x="176" y="76" font-size="12">20%</text>
 <circle cx="305" cy="56" r="5" fill="#f5d90a"/>
 <text class="big" x="316" y="60" font-size="13">C#</text>
-<text x="316" y="76" font-size="12">18%</text>
+<text x="316" y="76" font-size="12">17%</text>
 <circle cx="445" cy="56" r="5" fill="#30a46c"/>
 <text class="big" x="456" y="60" font-size="13">JavaScript</text>
 <text x="456" y="76" font-size="12">12%</text>
 <circle cx="585" cy="56" r="5" fill="#3e63dd"/>
-<text class="big" x="596" y="60" font-size="13">C++</text>
-<text x="596" y="76" font-size="12">7%</text>
+<text class="big" x="596" y="60" font-size="13">Swift</text>
+<text x="596" y="76" font-size="12">8%</text>
 <circle cx="725" cy="56" r="5" fill="#8e4ec6"/>
-<text class="big" x="736" y="60" font-size="13">PHP</text>
+<text class="big" x="736" y="60" font-size="13">C++</text>
 <text x="736" y="76" font-size="12">6%</text></svg>
