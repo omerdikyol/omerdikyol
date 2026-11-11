@@ -10,19 +10,19 @@ M.Sc. Computer Engineering at Istanbul Technical University.
 
 <p align="center"><img src="assets/languages.svg" alt="Languages used"/></p>
 
-<h3 align="center">Live demos</h3>
+<h3 align="center">Live</h3>
 
 <p align="center">
-<a href="https://omerdikyol.github.io/netmeter/">NetMeter</a>: macOS menu-bar network monitor; the site runs its real panel on sample traffic<br/>
+<a href="https://netmeter.omerdikyol.com/">NetMeter</a>: macOS menu-bar network monitor; the site runs its real panel on sample traffic<br/>
 <a href="https://ituscheduler.omerdikyol.com/">ITU Scheduler</a>: course planner for ITU students with conflict checks<br/>
 <a href="https://omerdikyol.github.io/rayda/">Rayda</a>: Marmaray map with timetable-based train simulation<br/>
 <a href="https://omerdikyol.github.io/voice-ai-dashboard/">Voice AI Dashboard</a>: call analytics and prompt-assembly console<br/>
-<a href="https://omerdikyol.github.io/jobtrack/">jobtrack</a>: local job-search workspace built from Gmail<br/>
+<a href="https://jobtrack.omerdikyol.com/">jobtrack</a>: local job-search workspace built from Gmail<br/>
 <a href="https://omerdikyol.github.io/sentiment-analysis-of-individual/">Sentiment dashboard</a>: sentiment tracking across news and social posts<br/>
 <a href="https://omerdikyol.github.io/PaySub/">PaySub</a>: subscriptions and recurring-expense tracker (Expo web build)
 </p>
 
-<p align="center"><sub>Demos run in the browser on mock data. Nothing in them is real.</sub></p>
+<p align="center"><sub>Where a project is a demo, it runs in the browser on mock data. Nothing in those is real.</sub></p>
 
 <p align="center">
 <a href="https://omerdikyol.com">website</a> ·
