@@ -5,12 +5,12 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;fill:#57606a}
 @media (prefers-color-scheme:dark){text{fill:#8b949e} .big{fill:#e6edf3} .rule{stroke:#30363d}}
 </style>
 <clipPath id="r"><rect x="20" y="14" width="840" height="12" rx="6"/></clipPath><g clip-path="url(#r)">
-<rect x="20.0" y="14" width="217.4" height="12" fill="#e5484d"/>
-<rect x="237.4" y="14" width="199.4" height="12" fill="#f76b15"/>
-<rect x="436.9" y="14" width="166.0" height="12" fill="#f5d90a"/>
-<rect x="602.9" y="14" width="119.5" height="12" fill="#30a46c"/>
-<rect x="722.4" y="14" width="77.3" height="12" fill="#3e63dd"/>
-<rect x="799.6" y="14" width="60.4" height="12" fill="#8e4ec6"/>
+<rect x="20.0" y="14" width="215.2" height="12" fill="#e5484d"/>
+<rect x="235.2" y="14" width="202.3" height="12" fill="#f76b15"/>
+<rect x="437.6" y="14" width="164.3" height="12" fill="#f5d90a"/>
+<rect x="601.9" y="14" width="121.8" height="12" fill="#30a46c"/>
+<rect x="723.7" y="14" width="76.5" height="12" fill="#3e63dd"/>
+<rect x="800.2" y="14" width="59.8" height="12" fill="#8e4ec6"/>
 </g>
 <circle cx="25" cy="56" r="5" fill="#e5484d"/>
 <text class="big" x="36" y="60" font-size="13">Python</text>
